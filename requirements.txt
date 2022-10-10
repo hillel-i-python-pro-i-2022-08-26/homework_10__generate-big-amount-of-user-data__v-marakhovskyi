@@ -1,4 +1,4 @@
-# For generating fake data
+# Name generating
 faker==15.0.0
 # [code_style]-[BEGIN]
 # Upgrade syntax.
