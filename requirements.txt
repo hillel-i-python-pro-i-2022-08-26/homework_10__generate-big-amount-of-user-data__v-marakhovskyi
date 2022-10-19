@@ -1,0 +1,12 @@
+# Name generating
+faker==15.0.0
+# [code_style]-[BEGIN]
+# Upgrade syntax.
+pyupgrade==3.0.0
+# Pre-commit hook.
+pre-commit==2.20.0
+# Check codestyle
+flake8==5.0.4
+# Formatter. Apply codestyle.
+black==22.10.0
+# [code_style]-[END]
